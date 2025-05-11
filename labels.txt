@@ -1,0 +1,5 @@
+# ID to label mapping
+id2label = {
+    "0": "female portrait",
+    "1": "male portrait"
+}
